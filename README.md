@@ -10,4 +10,5 @@ Clone the repository:
 Install dependencies:
 <code> pip install -r requirements.txt </code>
 
-### Disclaimer: Some files may be missing (such as the main dataframe) due to GitHub's strict size limit of 100 MB
+##### Disclaimer: 
+Some files may be missing (such as the main dataframe) due to GitHub's strict size limit of 100 MB
